@@ -312,7 +312,7 @@
             #en.theme\
             #v(10pt)
             #meta.participants.join(", ", last: " & ")\
-            #text(10pt)[Computer Science, #meta.project-group, #datetime.today().year()]
+            #text(10pt)[#field-of-study, #meta.project-group, #datetime.today().year()]
             #v(10pt)
             #meta.project-type
           ]
