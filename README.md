@@ -86,7 +86,7 @@ Furthermore, the template exports the show rules
 To use it in an existing project, add the following show rule.
 
 ```typ
-#import "@preview/classic-aau-report:0.2.0": project, mainmatter, chapters, backmatter, appendix
+#import "@preview/classic-aau-report:0.2.1": project, mainmatter, chapters, backmatter, appendix
 
 // Any of the below can be omitted, the defaults are either empty values or CS specific
 #show: project.with(

@@ -1,7 +1,7 @@
 #import "@preview/hydra:0.5.2": hydra
 #import "@preview/t4t:0.4.1": get
 #import "@preview/headcount:0.1.0": dependent-numbering
-#import "@preview/subpar:0.2.0"
+#import "@preview/subpar:0.2.1"
 
 #let defaults = (
   meta: (
