@@ -2,7 +2,7 @@
 // included as a file here whilst waiting on
 // https://github.com/ntjess/typst-drafting/pull/18
 
-#import "@preview/t4t:0.4.1": get
+#import "@preview/t4t:0.4.2": get
 
 #let note-descent = state("note-descent", (:))
 
