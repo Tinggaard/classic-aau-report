@@ -3,7 +3,7 @@
 
 #import "todo.typ": todo, note-outline // custom todo box
 #import "@preview/subpar:0.2.0" // subfigures
-#import "@preview/t4t:0.4.1": get // utils
+#import "@preview/t4t:0.4.2": get // utils
 #import "@preview/headcount:0.1.0": dependent-numbering
 #import "@preview/glossy:0.5.2": * // acronyms / glossary
 // #import "@preview/codly:1.2.0": * // listings with line numbers
