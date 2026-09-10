@@ -1,4 +1,4 @@
-#import "@preview/hydra:0.6.2": hydra
+#import "@preview/hydra:0.6.3": hydra
 
 // courtesy of https://github.com/jbirnick/typst-headcount/blob/d796ab0294d608f9746f3609a71d80b9a93499b8/lib.typ
 #let normalize-length(array, length) = {
