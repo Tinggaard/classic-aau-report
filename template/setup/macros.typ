@@ -4,10 +4,10 @@
 // NOTE: these package-versions may be outdated - please look for newer versions
 #import "todo.typ": note-outline, todo // custom todo box
 #import "@preview/subpar:0.2.2" // subfigures
-#import "@preview/headcount:0.1.0": dependent-numbering
-#import "@preview/glossy:0.8.0": * // acronyms / glossary
+#import "@preview/headcount:0.1.1": dependent-numbering
+#import "@preview/glossy:0.9.2": * // acronyms / glossary
 // #import "@preview/codly:1.3.0": * // listings with line numbers
-// #import "@preview/codly-languages:0.1.8": * // icons along said listings
+// #import "@preview/codly-languages:0.1.10": * // icons along said listings
 // #import "@preview/fletcher:0.5.8" // drawing
 
 // introduce your math shorthands here, like these
