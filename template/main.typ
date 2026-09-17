@@ -1,4 +1,4 @@
-#import "@preview/classic-aau-report:0.3.1": (
+#import "@preview/classic-aau-report:0.3.2": (
   appendix, backmatter, chapters, mainmatter, project,
 )
 #import "setup/macros.typ": *

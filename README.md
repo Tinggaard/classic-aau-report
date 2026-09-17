@@ -97,7 +97,7 @@ which only skips to the next page (as opposed to next _odd_) on chapters, when s
 To use it in an existing project, add the following show rules:
 
 ```typ
-#import "@preview/classic-aau-report:0.3.1": project, mainmatter, chapters, backmatter, appendix
+#import "@preview/classic-aau-report:0.3.2": project, mainmatter, chapters, backmatter, appendix
 
 // Any of the below can be omitted, the defaults are either empty values or CS specific
 #show: project.with(
@@ -150,4 +150,4 @@ cd classic-aau-report
 just install
 ```
 
-This will make the package available via the `@local` namespace (`@local/classic-aau-report:0.3.1`)
+This will make the package available via the `@local` namespace (`@local/classic-aau-report:0.3.2`)
